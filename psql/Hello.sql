@@ -1,0 +1,4 @@
+DO $$
+BEGIN
+    RAISE NOTICE 'HELLO WORLD';
+END $$;	
